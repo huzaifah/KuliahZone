@@ -1,0 +1,12 @@
+c:\users\administrator\documents\visual studio 2013\Projects\KuliahZone\KuliahZone.Domain.Test\bin\Debug\KuliahZone.Domain.Test.dll
+c:\users\administrator\documents\visual studio 2013\Projects\KuliahZone\KuliahZone.Domain.Test\bin\Debug\KuliahZone.Domain.Test.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\KuliahZone\KuliahZone.Domain.Test\bin\Debug\KuliahZone.Domain.dll
+c:\users\administrator\documents\visual studio 2013\Projects\KuliahZone\KuliahZone.Domain.Test\bin\Debug\KuliahZone.Domain.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\KuliahZone\KuliahZone.Domain.Test\obj\Debug\KuliahZone.Domain.Test.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\KuliahZone\KuliahZone.Domain.Test\obj\Debug\KuliahZone.Domain.Test.dll
+c:\users\administrator\documents\visual studio 2013\Projects\KuliahZone\KuliahZone.Domain.Test\obj\Debug\KuliahZone.Domain.Test.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\KuliahZone\KuliahZone.Domain.Test\bin\Debug\FakeItEasy.dll
+c:\users\administrator\documents\visual studio 2013\Projects\KuliahZone\KuliahZone.Domain.Test\bin\Debug\FakeItEasy.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\KuliahZone\KuliahZone.Domain.Test\bin\Debug\AutoMapper.Net4.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\KuliahZone\KuliahZone.Domain.Test\bin\Debug\AutoMapper.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\KuliahZone\KuliahZone.Domain.Test\bin\Debug\AutoMapper.xml

@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2013\Projects\KuliahZone\KuliahZone.Persistence\bin\Debug\KuliahZone.Persistence.dll
+c:\users\administrator\documents\visual studio 2013\Projects\KuliahZone\KuliahZone.Persistence\bin\Debug\KuliahZone.Persistence.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\KuliahZone\KuliahZone.Persistence\obj\Debug\KuliahZone.Persistence.dll
+c:\users\administrator\documents\visual studio 2013\Projects\KuliahZone\KuliahZone.Persistence\obj\Debug\KuliahZone.Persistence.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\KuliahZone\KuliahZone.Persistence\bin\Debug\KuliahZone.Persistence.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\KuliahZone\KuliahZone.Persistence\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\KuliahZone\KuliahZone.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\KuliahZone\KuliahZone.Persistence\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\KuliahZone\KuliahZone.Persistence\bin\Debug\EntityFramework.SqlServer.xml

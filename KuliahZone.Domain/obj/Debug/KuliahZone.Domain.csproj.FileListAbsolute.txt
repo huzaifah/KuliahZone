@@ -1,0 +1,7 @@
+c:\users\administrator\documents\visual studio 2013\Projects\KuliahZone\KuliahZone.Domain\bin\Debug\KuliahZone.Domain.dll
+c:\users\administrator\documents\visual studio 2013\Projects\KuliahZone\KuliahZone.Domain\bin\Debug\KuliahZone.Domain.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\KuliahZone\KuliahZone.Domain\obj\Debug\KuliahZone.Domain.dll
+c:\users\administrator\documents\visual studio 2013\Projects\KuliahZone\KuliahZone.Domain\obj\Debug\KuliahZone.Domain.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\KuliahZone\KuliahZone.Domain\bin\Debug\AutoMapper.Net4.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\KuliahZone\KuliahZone.Domain\bin\Debug\AutoMapper.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\KuliahZone\KuliahZone.Domain\bin\Debug\AutoMapper.xml
